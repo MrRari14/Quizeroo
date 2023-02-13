@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript projects. Simple ones for now.
+Simple questions & answers application to practice my JavaScript.
