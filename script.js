@@ -8,7 +8,7 @@ const questions = [
       { text: "Missy", correct: false },
       { text: "Raúl", correct: false },
     ],
-    fact: "She learnt Dutch and worked to improve it to fit in. Her family moved from Germany to the Netherlands. The Anne Frank house in Amsterdam is not actually where she lived, but where her family hid. The house they first moved to is now an artists asylum.",
+    fact: "She learnt Dutch and worked to improve it to fit in. Her family moved from Germany to the Netherlands. The Anne Frank house in Amsterdam is not actually where she lived, but where her family hid. The house they first moved to is now a writer's house and museum.",
   },
 
   {
@@ -19,7 +19,7 @@ const questions = [
       { text: "2018", correct: true },
       { text: "2014", correct: false },
     ],
-    fact: "On the 12/12/2018 River Plate won 3 to 1. Boca started winning with a goal from forward benedetto. River tied with a goal from Lucas Pratto, took the lead by 1, courtesy of Juanfer Quintero, and killed the match with an iconic goal from Pity Martinez!",
+    fact: "On the 12/12/2018 River Plate won 3 to 1. Boca started winning with a goal from forward Benedetto. River tied with a goal from Lucas Pratto, took the lead by 1, courtesy of Juanfer Quintero, and killed the match with an iconic goal from el 'Pity' Martinez!",
   },
 
   {
@@ -30,29 +30,29 @@ const questions = [
       { text: "45", correct: false },
       { text: "60", correct: false },
     ],
-    fact: "'The Truman Show' is the first movie where Jim Carrey surprised us all with his talent for dramatic roles. Although he wouldn't recieve the deserved recognition by the critics until 2004 with 'Eternal Sunshine of a Spotless Mind'.",
+    fact: "'The Truman Show' is the first movie where Jim Carrey surprised us all with his talent for dramatic roles, although he didn't receive much recognition by the critics until 2004 with 'Eternal Sunshine of a Spotless Mind'.",
   },
 
   {
     question: "How did George Hotz become relevant in the technology scene?",
     answers: [
-      { text: "He created Apple", correct: false },
-      { text: "He created ebay", correct: false },
+      { text: "He founded Apple", correct: false },
+      { text: "He founded eBay", correct: false },
       { text: "He came up with the Jailbrake", correct: true },
       { text: "He's a Kardashian", correct: false },
     ],
-    fact: "He was declared the first person to be able to hack IOS from Apple, which at the moment hadn't been done. He also hacked PS3 and kept users all around the world from being able to access the PS3 online platform. So no one could play online.",
+    fact: "He was declared the first person to be able to hack IOS from Apple. He also hacked Sony's PS3 network and kept users all around the world from being able to access the online platform. No one could play online :(",
   },
 
   {
     question: "For what MLS team did Thierry Henry play?",
     answers: [
       { text: "Chicago Fire", correct: false },
-      { text: "Al Jazhira", correct: false },
+      { text: "Al Jazeera", correct: false },
       { text: "NY Red Bulls", correct: true },
       { text: "Seattle Sounders", correct: false },
     ],
-    fact: "He played for the New Yorker's from 2010 to 2014, having been part of 135 matches and having scored 52 goles in that period.",
+    fact: "He played for the New Yorkers from 2010 to 2014, having been part of 135 matches and having scored 52 goals during that period.",
   },
 
   {
@@ -63,7 +63,7 @@ const questions = [
       { text: "To fart", correct: false },
       { text: "To buy a sofa", correct: false },
     ],
-    fact: "According to the Cambridge diccionary it refers 'to turn or twist': She pivots her left foot. ",
+    fact: "According to the Cambridge dictionary it means 'to turn or twist': She pivots on her left foot. ",
   },
 
   {
@@ -74,7 +74,7 @@ const questions = [
       { text: "195", correct: false },
       { text: "235", correct: true },
     ],
-    fact: "Yes! That was Friendstastic! Despite the massive amount of episodes and having laster for a decade, it is not the longest running sitcom.",
+    fact: "Yes! That was Friendstastic! Despite the massive amount of episodes and having lasted for a decade, it is not the longest running sitcom.",
   },
 
   {
@@ -85,7 +85,7 @@ const questions = [
       { text: "Reptiliusphobia", correct: false },
       { text: "Snakeophobia", correct: false },
     ],
-    fact: "The person who developed this quiz application suffers from the extreme fear of snakes...He currently does not develop with Python :)",
+    fact: "The person who developed this quiz app suffers from the extreme fear of snakes...He currently does not develop with Python :)",
   },
 ]
 
